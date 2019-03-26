@@ -1,0 +1,2 @@
+sudo bash run.sh samples/ tmp/output tmp/output/results.csv
+
